@@ -7,8 +7,8 @@
 
 // CONFIG
 
-const char* ssid = "VM2082519";
-const char* password = "o3Nwvwte9Yagxrea";
+const char* ssid = "INTERNET NAME";
+const char* password = "INTERNET PASSWORD";
 const char* server = "api.thingspeak.com";
 String apiKey = "3L0VR3BII73LWNS9";
 
